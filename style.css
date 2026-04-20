@@ -720,7 +720,7 @@ main {
         rgba(60, 63, 66, 0.7), 
         rgba(60, 63, 66, 0.7)
     ), 
-    url('IMG_80.png'); 
+    url('img/IMG_80.png'); 
     
     background-repeat: repeat-y; 
     background-size: 100% auto;
